@@ -16,7 +16,7 @@ If the simulation is slow, try removing the polygons from the config file.
 
 ## Simulation setup
 
-The 24h simulation currently contains routes for passenger vehicles, heavy-vehicle traffic as well as bicycles. Both vehicle demand as well as traffic light settings are created from data for Wednesday the 16.09.2020 to create a weekday traffic situation mostly uninfluenced by covid-restrictions. More details on the simulation setup are provided in [simulation_setup](docs/simulation_setup.md) and in the listed publications.
+The 24h simulation currently contains routes for passenger vehicles, heavy-vehicle traffic as well as bicycles. Both vehicle demand as well as traffic light settings are created from data for Wednesday the 2020-09-16 to create a weekday traffic situation mostly uninfluenced by covid-restrictions. More details on the simulation setup are provided in [simulation_setup](docs/simulation_setup.md) and in the listed publications.
 
 
 ## Contributing
@@ -37,10 +37,10 @@ Marcel Langer, Michael Harth, Lena Preitschaft, Ronald Kates and Klaus Bogenberg
 
 ## Acknowledgements
 
-* Thank you to [Lutz Morich](https://www.linkedin.com/in/lutz-morich-in/) of Audi and [Prof. Klaus Bogenberger](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/univ-prof-dr-ing-klaus-bogenberger/) of TUM for providing the working environment and making this work possible.
+* Thank you to [Lutz Morich](https://www.linkedin.com/in/lutz-morich-in) of Audi and [Prof. Klaus Bogenberger](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/univ-prof-dr-ing-klaus-bogenberger) of TUM for providing the working environment and making this work possible.
 * We appreciate the funding of the [SAVe:](https://save-in.digital/) and [KIVI](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/KI-Projekte/kivi-kuenstliche-intelligenz-im-verkehrssystem-ingolstadts.html) research projects by [BMVI](https://www.bmvi.de/DE/Home/home.html) as well as the funding for the [SAVeNoW](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/AVF-projekte/savenow.html) research project by [BMWi](https://www.bmwi.de/Navigation/DE/Home/home.html).
-* Initial setup by [Marcel Langer](https://www.linkedin.com/in/marcel-langer-18b3a4175/) and [Michael Harth](https://www.linkedin.com/in/michael-harth-916130145/).
-* Continuous improvements by [Natalie Sautter](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/sautter-natalie/), [Martin Margreiter](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/margreiter-martin/) and [Mario Ilic](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/ilic-mario/) in the SAVeNoW and KIVI Projects.
+* Initial setup by [Marcel Langer](https://www.linkedin.com/in/marcel-langer-18b3a4175) and [Michael Harth](https://www.linkedin.com/in/michael-harth-916130145).
+* Continuous improvements by [Natalie Sautter](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/sautter-natalie/), [Martin Margreiter](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/margreiter-martin and https://www.linkedin.com/in/martinmargreiter) and [Mario Ilic](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/ilic-mario) in the SAVeNoW and KIVI Projects.
 * Special thanks to all who supported to project over the years including Philipp Neuhaus, Lena Preitschaft, Philipp Wulff, Navneet Singh Dhir, Camilo Cardona Torres and Danil Belikhov.
 
 
